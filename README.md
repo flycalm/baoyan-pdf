@@ -2,6 +2,15 @@
 
 一款 Windows 桌面应用，用于整理保研申请 PDF、按院校要求编排材料，并导出合并后的 PDF。核心材料处理在本机完成；AI 整理功能可选，使用时需自行配置兼容的模型接口和 API Key。
 
+## 界面预览
+
+![申请项目、材料编排与 PDF 导出界面](docs/screenshots/home.jpg)
+
+<p align="center">
+  <img src="docs/screenshots/library.jpg" alt="材料库界面" width="49%" />
+  <img src="docs/screenshots/ai-assistant.jpg" alt="AI 整理报名材料界面" width="49%" />
+</p>
+
 ## 功能
 
 - **材料库**：导入 PDF，按类别管理常用材料，查看页数和预览。
