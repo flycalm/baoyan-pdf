@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+a3bca240f3bb61efdc3a90be89d1da4ed5e125326c3458c4e62df53ff4f153e3  qpdf-12.4.0-bin-linux-x86_64.zip
+60e7866c9758f678333af61b932d1ead3a2ddc5090febad630b233a663af314b  qpdf-12.4.0-doc.zip
+760e309c97d6908ab3b9e5644321fedda48c2ccef6182f58eaf7e89ad383315c  qpdf-12.4.0-mingw32.exe
+1357d23e39a7951fc52b02ea7c4a235e12e427dbcea5f78a2aa88d2dca4ae1bc  qpdf-12.4.0-mingw32.zip
+09e5e3e0d9cdd3cc1b1de8325d80b3062b19e3f3def25f496bad3821b16394a4  qpdf-12.4.0-mingw64.exe
+dcec940ce825b3b654d4936918190f52e7bfca85b7fb1c49bc24b3035185b4f5  qpdf-12.4.0-mingw64.zip
+c11101680e9cf5aac993a447bef534f2b3ea1ca00be674d617c98a4c6ad04700  qpdf-12.4.0-msvc32.exe
+28d1418d62c6968fe0c545e78584cf7e80235d9e819caeec8bead164f6b4925a  qpdf-12.4.0-msvc32.zip
+0cdab89b14cdae19194fbd45c19a684a360adbf728f19fc1557c2d58fe5e3658  qpdf-12.4.0-msvc64.exe
+5bcb25353f7e6df92b5625dbcfe52a5c34a2a5fba2d1a8b98b8a6a0972c3ff72  qpdf-12.4.0-msvc64.zip
+2783a032f443cc886dad41aa6d5fae3dabf23dec00ee7ec2cfb27ef67ebcf529  qpdf-12.4.0.tar.gz
+ed14b50cb88bb0bc490811ea647320d4e27db19e65dcb5e98dfe9593b9a14edc  qpdf-12.4.0.tar.gz.asc
+9f06a9f35c3381b2085d1d62b50dbf0ac66b8ffc5c827f631cc1034bee07e7b4  qpdf-12.4.0-x86_64.AppImage
+5e1af04eec45af5f67c60dc5e4e310559e306ec3d92890accd939a129c4347c3  qpdf-12.4.0-x86_64.AppImage.zsync
+55a981f040f7e70f485a2bdd18a4a5cedeb879932c5ef5d63feec9dbaa6e1094  vcpkg.zip
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEwslrEAEf4Anm0d+CinXRCZgBLH4FAmp43UUACgkQinXRCZgB
+LH48yg/9EhYXlQP+G4W74vlBmAnXeMSo6TwxXUCV6nfigMlZB4ablosbcVkuXIAf
+3KerkrrJgtAW7e0cK/pBsP6KtSPsRWIAuUTrhQD81dJqmf/SNQdPuT4zF5cwplAD
+5Mf5G0hlu3+jKhQSoVYTjciZDpOrGMXbe9gLxt1x9ipMAhkhelQKx3a2kkuyAVEb
+/+t9JHFHTeQ0n602jr9riUPkOZL775uaGrvwPiJsemdH4wDUFdV4jrvp4RE3k8qF
+Zd/z9vEBaXWKdaXV3f84mAaraVcqOrcKHzbbfD3vi+uTYAhnvyqXM9VkeLhIjLui
+IHuJgI3LyC/GRYFNnpRohl7LZeD/zJ+vqraK+9+qODWEyfTEA5X56MzpHgVlPEmq
+8uLMSQIDEaS+HZbYFu8nefT9jGdYhYljvNoCRxJD3eiiKwm+pCY5zcl5RadLPgIL
+K4dQ11G5IhoTx4ft/6Nn+UuU55f1Ag9dOdzH46Ig20PWov+nJIOeSuDbkSLYR+iS
+ZT1gjWOAfGzdtgbyEJxaPvQaSzXxB5zHKI4CvU4rx1IVxvZdp/q3NSuo7Ykawiup
+C7vZNyUOH/IHiW2BtCnbsmdzqpa3WypRe25uOhdhEk+xLGna7Heb/nSPwVoMH2El
+IkK5pynr2jof1daHfVEQZy7mHGn0cpk/5UxvLixDF1QiVA66w1c=
+=l4g8
+-----END PGP SIGNATURE-----
