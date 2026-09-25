@@ -2,6 +2,8 @@
 
 一款 Windows 桌面应用，用于整理保研申请 PDF、按院校要求编排材料，并导出合并后的 PDF。核心材料处理在本机完成；AI 整理功能可选，使用时需自行配置兼容的模型接口和 API Key。
 
+**下载 v0.2.0：** [Windows 安装包](https://github.com/flycalm/baoyan-pdf/releases/download/v0.2.0/Baoyan-PDF-Setup-v0.2.0.exe) · [Windows 便携版](https://github.com/flycalm/baoyan-pdf/releases/download/v0.2.0/Baoyan-PDF-Portable-v0.2.0.zip) · [查看发布说明](https://github.com/flycalm/baoyan-pdf/releases/tag/v0.2.0)
+
 ## 界面预览
 
 ![申请项目、材料编排与 PDF 导出界面](docs/screenshots/home.jpg)
